@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css'
-import logo from '../../images/favicon.ico'
+import logo from '../../images/my-amazon.png'
 
 const Header = () => {
     return (
