@@ -47,8 +47,8 @@
 
 .product-info{
     margin-left: 14px;
-    position: absolute;
-    top: 60%;
+    /* position: absolute; */
+    /* top: 60%; */
 }
 
 .product-info p{
